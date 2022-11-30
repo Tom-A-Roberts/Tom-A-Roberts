@@ -4,11 +4,8 @@
 - Highest mark in year 2 (Outstanding achievement award L2, £200 prize)
 
 * ### Auto-Docking Spaceship PID Control System script (32,358 current users).
-  > <p>
-  > <a href="https://www.youtube.com/watch?v=Ogm4yzAaqEg"><img src="Gifs/DockingSequence.gif" height="150" title="Click to see the video">
+  > <img src="Gifs/DockingSequence.gif" height="150" title="Click to see the video">
   > <img src="Gifs/DockingSequence4.gif" height="150" title="Click to see the video">
-  > </a>
-  > </p>
   > <img src="Gifs/Autodocking Collision Avoidance.gif" height="150" title="Click to see the video">
   > <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2146371052"><img src="Gifs/Subcount.png" height="100" title="Click to see the steam page"></a>
   > 
