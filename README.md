@@ -44,11 +44,10 @@
   > - The task for the Deep Learning module was staged simply: Create an AI drawn picture of a pegasus (a winged horse), while only using the CIFAR-10 dataset. This dataset contains no pegasus pictures, meaning we had to rely on creative ways to manipulate machine learning programs.
   > - The resulting image of a pegasus I produced was used as examplar feedback to the class.
   > - To produce pegasus images, I applied a current state-of-the-art Generative Adversarial Network (GAN) and manipulated the architecture so that it recieved an extra label as an input when creating the image. This label was associated with how "bird-like" or how "horse-like" the output would be. The label was interpolated, producing images of various horse+bird configurations. Some of these configurations look like pegasus, judge for yourself!:
+  > 
   > <img src="Gifs/BestHorse.png" height="70" title=""><img src="Gifs/Runners Up.png" height="70" title="">
-  > <p>
   > <img src="Gifs/PegasusLatentSpaceWalk.gif" height="400" title="">
   > <img src="Gifs/Interp.png" height="100" title="">
-  > </p>
   > - Achieved a mark of 78%
 
 * ## Reinforcement Learning Gravitar (79.4% Mark)
