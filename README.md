@@ -5,17 +5,12 @@
 
 * ### Auto-Docking Spaceship PID Control System script (32,358 current users).
   > <p>
-  > <a href="https://www.youtube.com/watch?v=Ogm4yzAaqEg">
-  > <figure><img src="Gifs/DockingSequence.gif" height="150" title="Click to see the video">
+  > <a href="https://www.youtube.com/watch?v=Ogm4yzAaqEg"><img src="Gifs/DockingSequence.gif" height="150" title="Click to see the video">
   > <img src="Gifs/DockingSequence4.gif" height="150" title="Click to see the video">
   > </a>
-  > <figcaption><b>Simulated ships docking using the control system</b></figcaption></figure>
   > </p>
-  > <figure><img src="Gifs/Autodocking Collision Avoidance.gif" height="150" title="Click to see the video">
-  > <figcaption><b>Demonstration of 3D voxel collision avoidance pathing</b></figcaption></figure>
-  > <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2146371052">
-  > <figure><img src="Gifs/Subcount.png" height="100" title="Click to see the steam page"></a>
-  > <figcaption><b>A screenshot of the recent user statistics</b></figcaption></figure>
+  > <img src="Gifs/Autodocking Collision Avoidance.gif" height="150" title="Click to see the video">
+  > <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2146371052"><img src="Gifs/Subcount.png" height="100" title="Click to see the steam page"></a>
   > 
   > - Created a spaceship docking control system written in C# for players in *Space Engineers*, a space simulation game.
   > - At the time of writing, at least 32,358 users have downloaded the script to be used on their ships
@@ -26,11 +21,9 @@
 
 
 * ## 4th Year Project: Using machine learning to identify motion of the camera within films (Achieved a First)
-  > <figure><img src="Gifs/Spectre.gif" height="125" title=""><img src="Gifs/SpectreForegroundBackground.gif" height="125" title=""><img src="Gifs/SpectreMotion.gif" height="200" title="">
-  > <figcaption><b>Left: Spectre (2015). Middle: Foreground background segmentation. Right: The extracted 3D camera motion</b></figcaption></figure>
-  > <figure><img src="Gifs/OpticalFlow.gif" height="130" title="">
+  > <img src="Gifs/Spectre.gif" height="125" title=""><img src="Gifs/SpectreForegroundBackground.gif" height="125" title=""><img src="Gifs/SpectreMotion.gif" height="200" title="">
+  > <img src="Gifs/OpticalFlow.gif" height="130" title="">
   > <img src="Gifs/DissPipelineOverview.PNG" height="250" title=""></a>
-  > <figcaption><b>Left: Optical flow analysis from Gravity (2013). Right: Each step in the full system pipeline.</b></figcaption></figure>
   > 
   > - The motion of a camera can reveal much about the director’s intention behind scenes in a movie. Automatic analysis of camera motion helps us understand what makes up the style of a scene, what gives directors their unique flair, and what makes some scenes so engaging.
   > - Typically, camera motion analysis techniques use models that capture simple elements such as linear translation or rotation about a subject, often with little temporal analysis. Datasets are usually small or contain a limited set of categories.
@@ -51,16 +44,16 @@
   > - The task for the Deep Learning module was staged simply: Create an AI drawn picture of a pegasus (a winged horse), while only using the CIFAR-10 dataset. This dataset contains no pegasus pictures, meaning we had to rely on creative ways to manipulate machine learning programs.
   > - The resulting image of a pegasus I produced was used as examplar feedback to the class.
   > - To produce pegasus images, I applied a current state-of-the-art Generative Adversarial Network (GAN) and manipulated the architecture so that it recieved an extra label as an input when creating the image. This label was associated with how "bird-like" or how "horse-like" the output would be. The label was interpolated, producing images of various horse+bird configurations. Some of these configurations look like pegasus, judge for yourself!:
-  > <figure><img src="Gifs/BestHorse.png" height="70" title=""><img src="Gifs/Runners Up.png" height="70" title=""><figcaption><b>Best Pegasus Images</b></figcaption></figure>
+  > <img src="Gifs/BestHorse.png" height="70" title=""><img src="Gifs/Runners Up.png" height="70" title="">
   > <p>
-  > <figure><img src="Gifs/PegasusLatentSpaceWalk.gif" height="400" title=""><figcaption><b>Walking around the Latent Space Partway through training</b></figcaption></figure>
-  > <figure><img src="Gifs/Interp.png" height="100" title=""><figcaption><b>Interpolating between bird latent space and horse latent space in order to achieve a pegasus</b></figcaption></figure>
+  > <img src="Gifs/PegasusLatentSpaceWalk.gif" height="400" title="">
+  > <img src="Gifs/Interp.png" height="100" title="">
   > </p>
   > - Achieved a mark of 78%
 
 * ## Reinforcement Learning Gravitar (79.4% Mark)
   > ### [PyTorch, Machine Learning, OpenAI Gym]
-  > <figure><img src="Gifs/Atari.gif" height="450" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/Atari.gif" height="450" title="">
   > 
   > - We were tasked with creating a reinforcement learning agent that could achieve the highest score possible in the Atari game Gravitar - a notoriously difficult learning task.
   > - Using a state-of-the-art reinforcement learning model: a Deep Q Learning (DQN) agent with a [duelling architecture](https://arxiv.org/abs/1511.06581), I created an agent that showed competancy when aiming and shooting at enemies, and navigating basic elements of the terrain.
@@ -71,7 +64,7 @@
 
 * ## Machine learning-powered search engine – Research placement with the British Library sponsored by Durham University
   > ### [Language Models, Flask, HTML, Javascript]
-  > <figure><img src="Gifs/ETHOS.gif" height="300" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/ETHOS.gif" height="300" title="">
   > 
   > - Developed a Machine-Learning-powered search engine in an ESRC IAA Funded research placement with the British Library sponsored by Durham University.
   > - Created an advanced E-Thesis search engine by using a cutting-edge Transformer to semantically group each Thesis based upon their text content.
@@ -84,8 +77,8 @@
 
 * ## Created the website for [Playtop UK](https://www.playtop.co.uk/)
   > ### [HTML/CSS, Javascript, Apache, PHP]
-  > <figure><a href="https://www.playtop.co.uk/"><img src="Gifs/Playtop.PNG" height="295" title=""></a>
-  > <a href="https://www.playtop.co.uk/"><img src="Gifs/playtop_fullpage.PNG" height="295" title=""></a><figcaption><b></b></figcaption></figure>
+  > <a href="https://www.playtop.co.uk/"><img src="Gifs/Playtop.PNG" height="295" title=""></a>
+  > <a href="https://www.playtop.co.uk/"><img src="Gifs/playtop_fullpage.PNG" height="295" title=""></a>
   > 
   > - Playtop is the worlds leading rubber safety surfacing provider. This website for the UK branch has been customer-facing for 2 years now.
   > - The website was written with Bespoke HTML with Wordpress compatibility to allow it to be editable by playtop employees. This meant:
@@ -96,18 +89,14 @@
 
 * ## Banner animation design for [Jam](https://jamww.com/), with clients: *DavidMorris*, *Tradedesk*, *Trustpilot*, and *Checkout.com*
   > ### [HTML/CSS, Javascript]
-  > <figure>
   > <img src="Gifs/Checkout2.gif" height="200" title="">
   > <img src="Gifs/Checkout3.gif" height="200" title="">
   > <img src="Gifs/Trustpilot.gif" height="200" title="">
   > <img src="Gifs/Trustpilot2.gif" height="200" title="">
   > <img src="Gifs/TradeDesk.gif" height="200" title="">
-  > <figcaption><b>Checkout.com | Checkout.com | Trustpilot.com | Trustpilot.com | theTradeDesk.com</b></figcaption></figure>
   > 
-  > <figure>
   > <img src="Gifs/DavidMorris.gif" height="150" title="">
   > <img src="Gifs/DavidMorris2.PNG" height="150" title="">
-  > <figcaption><b>David Morris</b></figcaption></figure>
   >
   > - Produced a total of 50 different HTML banner animations for [Jam](https://jamww.com/), a company that creates branded content for print, digital, social, TV and interactive channels.
   > - This work involved writing Javascript along with CSS in order to animate assets to match a descriptive brief and/or motion graphics example video.
@@ -115,10 +104,8 @@
 
 * ## Created *Hospital Dash*, a Game in Unity for Durham University (100% mark)
   > ### [C#, Unity, Cinema4D, Photoshop, Audacity]
-  > <figure>
   > <img src="Gifs/COVIDDashLong2.gif" height="220"  title="Click to see the steam page">
   > <img src="Gifs/COVID Dash.gif" height="220"  title="Click to see the steam page">
-  > <figcaption><b>In-game footage of skating around with a patient</b></figcaption></figure>
   > 
   > - Fully designed and developed a game in Unity where you skate around with a very slidey hospital bed to deliver your patients to the correct location.
   > - This Masters coursework achieved a mark of 100%
@@ -134,9 +121,8 @@
 
 * ## Interactive vizualization of galaxies for public education, teaching concepts relating to telescopes (98% mark)
   > ### [Data Processing, Visualization Toolkit, Python]
-  > <p>
-  > <figure><img src="Gifs/Viz1.gif" height="180" title="Demonstration of the relationship between Red-Shift and depth">
-  > <img src="Gifs/Viz2.gif" height="150" title="Demonstration of different telescope parameters on the visibility of galaxies"><figcaption><b></b></figcaption></figure>
+  > <p><img src="Gifs/Viz1.gif" height="180" title="Demonstration of the relationship between Red-Shift and depth">
+  > <img src="Gifs/Viz2.gif" height="150" title="Demonstration of different telescope parameters on the visibility of galaxies">
   > </p>
     >
   > - Created in VTK (The Visualization Toolkit) - open source software which manipulates and displays scientific data in order to create interactive visualizations for educational purposes.
@@ -150,8 +136,8 @@
 
 * ## WebGL Room – Writing a Game Engine from Scratch (100% mark)
   > ### [WebGL, GLSL, Javascript, Node, HTML, Cinema4D, Blender, Photoshop]
-  > <figure><img src="Gifs/WebGLDemoReversed.gif" height="240" title="">
-  > <img src="Gifs/WebGLDemo2.gif" height="300" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/WebGLDemoReversed.gif" height="240" title="">
+  > <img src="Gifs/WebGLDemo2.gif" height="300" title="">
   > 
   > - Created an interactive graphics demonstration, developed from the ground up using only WebGL - a low-level graphics API.
   > - Implemented the following graphical techniques from scratch:
@@ -169,8 +155,8 @@
 
 * ## *Ready Recommenders* - A recommender system to suggest the perfect restaurant for a user (90% Mark)
   > ### [Data Processing, Python]
-  > <figure><img src="Gifs/ReadyReccomenders.gif" height="350" title=""><figcaption><b></b></figcaption></figure>
-  > <figure><img src="Gifs/ReccomenderFig.PNG" height="250" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/ReadyReccomenders.gif" height="350" title="">
+  > <img src="Gifs/ReccomenderFig.PNG" height="250" title="">
   >
   > - Created a recommender system that uses [data from Yelp](https://www.yelp.com/dataset) to suggest restaurants that a user may wish to visit based upon their previous reviews, comments, ratings, and personal data.
   > - A weighted ensemble technique was devised that combines both Collaborative filtering and Content-Based recommendation techniques. The ensemble weights were produced using Hyper-parameter tuning with a gaussian model to produce optimal performance from the recommender.
@@ -195,9 +181,9 @@
 
 * ## *Beleaf City* – A highly optimized virtual world for the browser (100% mark)
   > ### [WebGL, ThreeJS, Javascript, Cinema4D]
-  > <figure><img src="Gifs/BeLeafLOD.gif" height="180" title="">
+  > <img src="Gifs/BeLeafLOD.gif" height="180" title="">
   > <img src="Gifs/BeLeafDeformation.gif" height="180" title="">
-  > <img src="Gifs/BeLeafRigging.gif" height="180" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/BeLeafRigging.gif" height="180" title="">
   > 
   > - Produced a miniature city in a coursework that tested student's ability to optimize a virtual world for applications such as a browser and mobile phone.
   > - Optimizations and features included:
@@ -212,8 +198,8 @@
 
 * ## Explore Beaurepare Manor - a RESTful web-app group project (82% mark)
   > ### [AGILE, 3D Data Processing, Javascript, Node, MongoDB, ThreeJS, Python, ArcGIS, Photogrammetry]
-  > <figure><img src="Gifs/3DModelDemonstration.PNG" height="250" title="">
-  > <img src="Gifs/RuinsApp.gif" height="250" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/3DModelDemonstration.PNG" height="250" title="">
+  > <img src="Gifs/RuinsApp.gif" height="250" title="">
   >
   > - Worked in a Software Engineering group using the AGILE methodology to launch a [RESTful](https://en.wikipedia.org/wiki/Representational_state_transfer) Web-App for a real client - the [Dream Heritage](https://dreamheritage.co.uk/) charity.
   > - Worked closely with Dream Heritage to produce a web-app that allowed visitors of the Beaurepare Manor ruins to learn about different areas of the Manor in an interactive 3D demo.
@@ -228,9 +214,9 @@
 
 * ## Developed GPU shaders to distort a virtual world to be displayed in VR goggles (81% mark)
   > ### [HLSL, C#, Unity]
-  > <figure><img src="Gifs/BarrelDistortion.gif" height="243" title="">
-  > <img src="Gifs/Abberation.gif" height="243" title=""><figcaption><b></b></figcaption></figure>
-  > <figure><img src="Gifs/VR_AR_distortion.PNG" height="250" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/BarrelDistortion.gif" height="243" title="">
+  > <img src="Gifs/Abberation.gif" height="243" title="">
+  > <img src="Gifs/VR_AR_distortion.PNG" height="250" title="">
   > 
   > - When viewing virtual worlds through a VR headset, the lenses warp the world using pincushion distortion (see the image above). The inverse of this distortion must be applied on the image beforehand in order to create a normal experience for the viewer.
   > - Using the HLSL shader programming language, both vertex-based (more performant) and fragment-based (more accurate) methods for distorting the image were implemented, along with changeable parameters to correct for different lens shapes.
@@ -239,8 +225,8 @@
 
 * ## Tracking movement during the pandemic using Flickr photograph meta-data (76% mark)
   > ### [Data Processing, Selenium, Scrapy, Python]
-  > <figure><img src="Gifs/CompModelling.PNG" height="222" title="">
-  > <img src="Gifs/CompModellingResults.PNG" height="222" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/CompModelling.PNG" height="222" title="">
+  > <img src="Gifs/CompModellingResults.PNG" height="222" title="">
   > 
   > - This project develops on an idea of mine for how to track mobility of a population throughout the pandemic - using photograph meta-data to track the effectiveness of lockdowns.
   > - Web-scraping techniques (Scrapy, Selenium) were used to extract the meta-data from photos uploaded onto [Flickr](https://www.flickr.com/). Most photos include a geotagged location in the meta-data.
@@ -250,9 +236,9 @@
 
 * ## Blockchain and Cryptography - Writing Ethereum smart contracts (72% mark)
   > ### [Solidity, Python]
-  > <figure><img src="Gifs/SmartContract.gif" height="300" title=""><figcaption><b></b></figcaption></figure>
-  > <figure><img src="Gifs/Crypto_Accounts.PNG" height="300" title="">
-  > <img src="Gifs/CryptoContractDeployment.PNG" height="300" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/SmartContract.gif" height="300" title="">
+  > <img src="Gifs/Crypto_Accounts.PNG" height="300" title="">
+  > <img src="Gifs/CryptoContractDeployment.PNG" height="300" title="">
   > 
   > - The first part of this coursework involved writing our own blockchain example in Python from scratch. I successfully wrote my own accounts-based ledger which included a fully cryptographically secure transaction system along with Proof of Work block mining.
   > - The second part of the coursework involved writing a smart contract for the Ethereum blockchain. My smart contract could be deployed by a teacher and used to track and mark exam submissions.
@@ -262,9 +248,9 @@
 
 * ## "Realify" GTA 5 Graphics - An exercise in machine learning with a small dataset (85%  mark)
   > ### [PyTorch, Image Processing, Python]
-  > <figure><img src="Gifs/StyleTransferStart.gif" height="200" title="">
-  > <img src="Gifs/StyleTransferStyle.gif" height="150" title=""><figcaption><b></b></figcaption></figure>
-  > <figure><img src="Gifs/StyleTransferResult.gif" height="200" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/StyleTransferStart.gif" height="200" title="">
+  > <img src="Gifs/StyleTransferStyle.gif" height="150" title="">
+  > <img src="Gifs/StyleTransferResult.gif" height="200" title="">
   > 
   > - For this machine learning coursework, we were tested on our ability to squeeze every crumb from a small dataset - the dataset being a few minutes of example video from an old movie.
   > - We were tasked with taking footage from the game GTA 5 and changing it's style to look realistic, like the example video. After some research, I implemented the cutting-edge CycleGAN architecture which could transfer the style from one video onto another.
@@ -276,8 +262,8 @@
   > - This coursework achieved a mark of 85%.
 
 * ## Stance Detection (78% mark)
-  > <figure><img src="Gifs/GRURelatedUnrelated.PNG" height="240" title="">
-  > <img src="Gifs/RoBERTa.PNG" height="90" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/GRURelatedUnrelated.PNG" height="240" title="">
+  > <img src="Gifs/RoBERTa.PNG" height="90" title="">
   > 
   > - Within the context of detecting fake news, this project looks to estimate the relative stance of an article relating to a headline, useful for understanding how different news organisations perceive a certain topic. These articles may agree, disagrees, discuss, or be unrelated to the headline.
   > - Multiple cutting edge transformers and techniques were combined to form an advanced language model pipeline:
@@ -285,13 +271,13 @@
   >   2.  A bi-directional Gated Recurrent Unit (GRU) network is then applied on these representations to produce a related/unrelated classification.
   >   3.  Once articles are detected as "related", RoBERTa, a second language model is used to classify into agree/disagree/discuss. RoBERTa is a latest advancement on BERT, providing better performance in this case.
   > -  These models and this architecture was chosen as a result of testing various models and configurations. The final end-to-end metrics are shown below:
-  > <figure><img src="Gifs/NLPResults.PNG" height="100" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/NLPResults.PNG" height="100" title="">
   > 
   > - The end-to-end accuracy was close to winners of the already over [Fake News Challenge](http://www.fakenewschallenge.org/) competition, achieving a slightly higher accuracy than the second-place model which obtained an accuracy of 92% on the test data.
   > - This coursework achieved a mark of 78%.
 
 * ## Highly optimizing a particle simulation for a supercomputer in C – 84% mark
-  > <figure><img src="Gifs/ParallelComputing.gif" height="400" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/ParallelComputing.gif" height="400" title="">
   > 
   > - Created a highly optimized particle gravity simulation that was scalable, fast, and executable on *Hamilton*, Durham University's supercomputer.
   > - Implemented techniques such as: SIMD Vectorization, CPU Parallelization and various mathematical and algorithmic optimizations in order to obtain one of the fastest speeds in the class.
@@ -299,9 +285,9 @@
   > - Achieved a mark of 84%.
 
 * ## Wrote simple Neural Network library from scratch at the age of 15
-  > <figure><img src="Gifs/SignWave.gif" height="250" title="">
+  > <img src="Gifs/SignWave.gif" height="250" title="">
   > <img src="Gifs/Classification.gif" height="200" title="">
-  > <img src="Gifs/Digits.gif" height="200" title=""><figcaption><b></b></figcaption></figure>
+  > <img src="Gifs/Digits.gif" height="200" title="">
   > 
   > - Made when I was 15, and to prove to another student I could, I created a neural network library that was capable of different activities such as binary classification, graph approximation and simple number and character recognition.
   > - Improved upon in the future to create a system that could drive a toy car around by using an estimated depth map from a webcam.
