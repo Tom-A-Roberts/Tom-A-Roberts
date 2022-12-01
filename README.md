@@ -3,43 +3,43 @@
 
 - Achieved 82% overall weighted average at uni. Highest weighted average was 83%.
 - Highest mark in year 2 (Outstanding achievement award L2, £200 prize)
-
+[label](https://github.com/Tom-A-Roberts#auto-docking-spaceship-pid-control-system-script-32358-current-users)
 ### Past Works Index
 - Largest Projects
-  - [Auto-Docking Spaceship PID Control System script](https://github.com/Tom-A-Roberts/Tom-A-Roberts#auto-docking-spaceship-pid-control-system-script-32358-current-users)
-  - [4th Year Project: Using machine learning to identify motion of the camera within films](https://github.com/Tom-A-Roberts/Tom-A-Roberts#4th-year-project-using-machine-learning-to-identify-motion-of-the-camera-within-films-achieved-a-first)
-  - [Machine learning-powered search engine – Research placement with the British Library sponsored by Durham University](https://github.com/Tom-A-Roberts/Tom-A-Roberts#machine-learning-powered-search-engine--research-placement-with-the-british-library-sponsored-by-durham-university)
+  - [Auto-Docking Spaceship PID Control System script](https://github.com/Tom-A-Roberts#auto-docking-spaceship-pid-control-system-script-32358-current-users)
+  - [4th Year Project: Using machine learning to identify motion of the camera within films](https://github.com/Tom-A-Roberts#4th-year-project-using-machine-learning-to-identify-motion-of-the-camera-within-films-achieved-a-first)
+  - [Machine learning-powered search engine – Research placement with the British Library sponsored by Durham University](https://github.com/Tom-A-Roberts#machine-learning-powered-search-engine--research-placement-with-the-british-library-sponsored-by-durham-university)
 - Machine Learning
-  - [4th Year Project: Using machine learning to identify motion of the camera within films](https://github.com/Tom-A-Roberts/Tom-A-Roberts#4th-year-project-using-machine-learning-to-identify-motion-of-the-camera-within-films-achieved-a-first)
-  - [Deep Learning - Pegasus Generation](https://github.com/Tom-A-Roberts/Tom-A-Roberts#pegasus-generation-deep-learning-project-78-mark)
-  - [Reinforcement Learning - Gravitar](https://github.com/Tom-A-Roberts/Tom-A-Roberts#reinforcement-learning-gravitar-794-mark)
-  - [*Ready Recommenders* - A recommender system to suggest the perfect restaurant for a user](https://github.com/Tom-A-Roberts/Tom-A-Roberts#ready-recommenders---a-recommender-system-to-suggest-the-perfect-restaurant-for-a-user-90-mark)
-  - [Improved text compression from 64.7% to 32.8% by using RNN text prediction](https://github.com/Tom-A-Roberts/Tom-A-Roberts#improved-text-compression-from-647-to-328-by-using-rnn-text-prediction-80-mark)
-  - ["Realify" GTA 5 Graphics - An exercise in machine learning with a small dataset](https://github.com/Tom-A-Roberts/Tom-A-Roberts#realify-gta-5-graphics---an-exercise-in-machine-learning-with-a-small-dataset-85--mark)
-  - [Stance Detection with RoBERTa](https://github.com/Tom-A-Roberts/Tom-A-Roberts#stance-detection-78-mark)
-  - [Machine learning-powered search engine – Research placement with the British Library sponsored by Durham University](https://github.com/Tom-A-Roberts/Tom-A-Roberts#machine-learning-powered-search-engine--research-placement-with-the-british-library-sponsored-by-durham-university)
-  - [Wrote a Neural Network library from scratch at the age of 15](https://github.com/Tom-A-Roberts/Tom-A-Roberts#wrote-a-neural-network-library-from-scratch-at-the-age-of-15)
+  - [4th Year Project: Using machine learning to identify motion of the camera within films](https://github.com/Tom-A-Roberts#4th-year-project-using-machine-learning-to-identify-motion-of-the-camera-within-films-achieved-a-first)
+  - [Deep Learning - Pegasus Generation](https://github.com/Tom-A-Roberts#pegasus-generation-deep-learning-project-78-mark)
+  - [Reinforcement Learning - Gravitar](https://github.com/Tom-A-Roberts#reinforcement-learning-gravitar-794-mark)
+  - [*Ready Recommenders* - A recommender system to suggest the perfect restaurant for a user](https://github.com/Tom-A-Roberts#ready-recommenders---a-recommender-system-to-suggest-the-perfect-restaurant-for-a-user-90-mark)
+  - [Improved text compression from 64.7% to 32.8% by using RNN text prediction](https://github.com/Tom-A-Roberts#improved-text-compression-from-647-to-328-by-using-rnn-text-prediction-80-mark)
+  - ["Realify" GTA 5 Graphics - An exercise in machine learning with a small dataset](https://github.com/Tom-A-Roberts#realify-gta-5-graphics---an-exercise-in-machine-learning-with-a-small-dataset-85--mark)
+  - [Stance Detection with RoBERTa](https://github.com/Tom-A-Roberts#stance-detection-78-mark)
+  - [Machine learning-powered search engine – Research placement with the British Library sponsored by Durham University](https://github.com/Tom-A-Roberts#machine-learning-powered-search-engine--research-placement-with-the-british-library-sponsored-by-durham-university)
+  - [Wrote a Neural Network library from scratch at the age of 15](https://github.com/Tom-A-Roberts#wrote-a-neural-network-library-from-scratch-at-the-age-of-15)
 - Commercial HTML work
-  - [Banner animation design for Jam, with clients: DavidMorris, Tradedesk, Trustpilot, and Checkout.com](https://github.com/Tom-A-Roberts/Tom-A-Roberts#banner-animation-design-for-jam-with-clients-davidmorris-tradedesk-trustpilot-and-checkoutcom)
-  - [Created the website for Playtop UK](https://github.com/Tom-A-Roberts/Tom-A-Roberts#created-the-website-for-playtop-uk)
+  - [Banner animation design for Jam, with clients: DavidMorris, Tradedesk, Trustpilot, and Checkout.com](https://github.com/Tom-A-Roberts#banner-animation-design-for-jam-with-clients-davidmorris-tradedesk-trustpilot-and-checkoutcom)
+  - [Created the website for Playtop UK](https://github.com/Tom-A-Roberts#created-the-website-for-playtop-uk)
 - Full-stack development
-  - [Machine learning-powered search engine – Research placement with the British Library sponsored by Durham University](https://github.com/Tom-A-Roberts/Tom-A-Roberts#machine-learning-powered-search-engine--research-placement-with-the-british-library-sponsored-by-durham-university)
-  - [Explore Beaurepare Manor - a RESTful web-app group project](https://github.com/Tom-A-Roberts/Tom-A-Roberts#explore-beaurepare-manor---a-restful-web-app-group-project-82-mark)
+  - [Machine learning-powered search engine – Research placement with the British Library sponsored by Durham University](https://github.com/Tom-A-Roberts#machine-learning-powered-search-engine--research-placement-with-the-british-library-sponsored-by-durham-university)
+  - [Explore Beaurepare Manor - a RESTful web-app group project](https://github.com/Tom-A-Roberts#explore-beaurepare-manor---a-restful-web-app-group-project-82-mark)
 - Graphics & Game dev
-  - [Writing a Game Engine from Scratch (WebGL)](https://github.com/Tom-A-Roberts/Tom-A-Roberts#webgl-room--writing-a-game-engine-from-scratch-100-mark)
-  - [Created Hospital Dash, a game in Unity](https://github.com/Tom-A-Roberts/Tom-A-Roberts#created-hospital-dash-a-game-in-unity-for-durham-university-100-mark)
-  - [Interactive vizualization of galaxies for public education, teaching concepts relating to telescopes](https://github.com/Tom-A-Roberts/Tom-A-Roberts#interactive-vizualization-of-galaxies-for-public-education-teaching-concepts-relating-to-telescopes-98-mark)
-  - [*Beleaf City* – A highly optimized virtual world for the browser](https://github.com/Tom-A-Roberts/Tom-A-Roberts#beleaf-city--a-highly-optimized-virtual-world-for-the-browser-100-mark)
-  - [Developed GPU shaders to distort a virtual world to be displayed in VR goggles](https://github.com/Tom-A-Roberts/Tom-A-Roberts#developed-gpu-shaders-to-distort-a-virtual-world-to-be-displayed-in-vr-goggles-81-mark)
+  - [Writing a Game Engine from Scratch (WebGL)](https://github.com/Tom-A-Roberts#webgl-room--writing-a-game-engine-from-scratch-100-mark)
+  - [Created Hospital Dash, a game in Unity](https://github.com/Tom-A-Roberts#created-hospital-dash-a-game-in-unity-for-durham-university-100-mark)
+  - [Interactive vizualization of galaxies for public education, teaching concepts relating to telescopes](https://github.com/Tom-A-Roberts#interactive-vizualization-of-galaxies-for-public-education-teaching-concepts-relating-to-telescopes-98-mark)
+  - [*Beleaf City* – A highly optimized virtual world for the browser](https://github.com/Tom-A-Roberts#beleaf-city--a-highly-optimized-virtual-world-for-the-browser-100-mark)
+  - [Developed GPU shaders to distort a virtual world to be displayed in VR goggles](https://github.com/Tom-A-Roberts#developed-gpu-shaders-to-distort-a-virtual-world-to-be-displayed-in-vr-goggles-81-mark)
 - Data Processing and analysis
-  - [Tracking movement during the pandemic using Flickr photograph meta-data](https://github.com/Tom-A-Roberts/Tom-A-Roberts#tracking-movement-during-the-pandemic-using-flickr-photograph-meta-data-76-mark)
-  - [Interactive vizualization of galaxies for public education, teaching concepts relating to telescopes](https://github.com/Tom-A-Roberts/Tom-A-Roberts#interactive-vizualization-of-galaxies-for-public-education-teaching-concepts-relating-to-telescopes-98-mark)
-  - [*Ready Recommenders* - A recommender system to suggest the perfect restaurant for a user](https://github.com/Tom-A-Roberts/Tom-A-Roberts#ready-recommenders---a-recommender-system-to-suggest-the-perfect-restaurant-for-a-user-90-mark)
+  - [Tracking movement during the pandemic using Flickr photograph meta-data](https://github.com/Tom-A-Roberts#tracking-movement-during-the-pandemic-using-flickr-photograph-meta-data-76-mark)
+  - [Interactive vizualization of galaxies for public education, teaching concepts relating to telescopes](https://github.com/Tom-A-Roberts#interactive-vizualization-of-galaxies-for-public-education-teaching-concepts-relating-to-telescopes-98-mark)
+  - [*Ready Recommenders* - A recommender system to suggest the perfect restaurant for a user](https://github.com/Tom-A-Roberts#ready-recommenders---a-recommender-system-to-suggest-the-perfect-restaurant-for-a-user-90-mark)
 - Simulation
-  - [Auto-Docking Spaceship PID Control System script](https://github.com/Tom-A-Roberts/Tom-A-Roberts#auto-docking-spaceship-pid-control-system-script-32358-current-users)
-  - [Highly optimizing a particle simulation for a supercomputer in C](https://github.com/Tom-A-Roberts/Tom-A-Roberts#highly-optimizing-a-particle-simulation-for-a-supercomputer-in-c--84-mark)
+  - [Auto-Docking Spaceship PID Control System script](https://github.com/Tom-A-Roberts#auto-docking-spaceship-pid-control-system-script-32358-current-users)
+  - [Highly optimizing a particle simulation for a supercomputer in C](https://github.com/Tom-A-Roberts#highly-optimizing-a-particle-simulation-for-a-supercomputer-in-c--84-mark)
 - Blockchain and Cryptography
-  - [Writing Ethereum smart contracts](https://github.com/Tom-A-Roberts/Tom-A-Roberts#blockchain-and-cryptography---writing-ethereum-smart-contracts-72-mark)
+  - [Writing Ethereum smart contracts](https://github.com/Tom-A-Roberts#blockchain-and-cryptography---writing-ethereum-smart-contracts-72-mark)
 
 ---
 
