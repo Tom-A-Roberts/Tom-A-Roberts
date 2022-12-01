@@ -1,9 +1,11 @@
-## Hi there 👋 I'm Tom, an aspiring Software and Machine Learning Engineer!
+## Hi there, I'm Tom, an aspiring Software and Machine Learning Engineer 
 ### Take a look through my past works
 
 #### Me
-- Achieved 82% overall weighted average at uni. Highest weighted average was 83%.
-- Highest mark in year 2 (Outstanding achievement award L2, £200 prize)
+- Graduated form Durham University with a First Class integrated MEng in Computer Science.
+- Achieved second highest overall weighted average mark (82%) across the 4 year Masters. The highest weighted average was 83%.
+- Awards and achievements: Outstanding achievement award L2 (£200 prize for highest mark in year 2).
+- https://www.linkedin.com/in/thomas-roberts-7815371a9/
 
 ### Past Works Index
 - Largest Projects
@@ -23,7 +25,7 @@
 - Commercial HTML work
   - [Banner animation design for Jam, with clients: DavidMorris, Tradedesk, Trustpilot, and Checkout.com](https://github.com/Tom-A-Roberts#banner-animation-design-for-jam-with-clients-davidmorris-tradedesk-trustpilot-and-checkoutcom)
   - [Created the website for Playtop UK](https://github.com/Tom-A-Roberts#created-the-website-for-playtop-uk)
-- Full-stack development
+- Full-stack HTML development
   - [Machine learning-powered search engine – Research placement with the British Library sponsored by Durham University](https://github.com/Tom-A-Roberts#machine-learning-powered-search-engine--research-placement-with-the-british-library-sponsored-by-durham-university)
   - [Explore Beaurepare Manor - a RESTful web-app group project](https://github.com/Tom-A-Roberts#explore-beaurepare-manor---a-restful-web-app-group-project-82-mark)
 - Graphics & Game dev
