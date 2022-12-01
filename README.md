@@ -3,6 +3,41 @@
 - Achieved 82% overall weighted average at uni. Highest weighted average was 83%.
 - Highest mark in year 2 (Outstanding achievement award L2, £200 prize)
 
+### Past Works Index
+ <font size="2">
+
+- Machine Learning
+  - 4th Year Project: Using machine learning to identify motion of the camera within films
+  - Pegasus Generation Deep Learning Project
+  - Reinforcement Learning Gravitar
+  - *Ready Recommenders* - A recommender system to suggest the perfect restaurant for a user
+  - Improved text compression from 64.7% to 32.8% by using RNN text prediction
+  - "Realify" GTA 5 Graphics - An exercise in machine learning with a small dataset
+  - Stance Detection
+  - Machine learning-powered search engine – Research placement with the British Library sponsored by Durham University
+  - Wrote a Neural Network library from scratch at the age of 15
+- Commercial HTML work
+  - Banner animation design for Jam, with clients: DavidMorris, Tradedesk, Trustpilot, and Checkout.com
+  - Created the website for Playtop UK
+- Full-stack development
+  - Machine learning-powered search engine – Research placement with the British Library sponsored by Durham University
+  - Explore Beaurepare Manor - a RESTful web-app group project
+- Graphics & Game dev
+  - Writing a Game Engine from Scratch (WebGL)
+  - Created Hospital Dash, a Game in Unity for Durham University
+  - Interactive vizualization of galaxies for public education, teaching concepts relating to telescopes
+  - *Beleaf City* – A highly optimized virtual world for the browser
+  - Developed GPU shaders to distort a virtual world to be displayed in VR goggles
+- Data Processing and analysis
+  - Tracking movement during the pandemic using Flickr photograph meta-data
+- Blockchain and Cryptography
+  - Writing Ethereum smart contracts
+- Simulation
+  - Highly optimizing a particle simulation for a supercomputer in C
+  - Auto-Docking Spaceship PID Control System script
+</font>
+---
+
 * ### Auto-Docking Spaceship PID Control System script (32,358 current users).
   > <img src="Gifs/DockingSequence.gif" height="150" title="Click to see the video">
   > <img src="Gifs/DockingSequence4.gif" height="150" title="Click to see the video">
@@ -280,7 +315,7 @@
   > - Tested on up to 56 CPU cores in parallel to ensure close-to-linear speed scaling.
   > - Achieved a mark of 84%.
 
-* ## Wrote simple Neural Network library from scratch at the age of 15
+* ## Wrote a Neural Network library from scratch at the age of 15
   > <img src="Gifs/SignWave.gif" height="250" title="">
   > <img src="Gifs/Classification.gif" height="200" title="">
   > <img src="Gifs/Digits.gif" height="200" title="">
