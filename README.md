@@ -1,4 +1,4 @@
-## Hi there, I'm Tom, an aspiring Software and Machine Learning Engineer 
+## Hi there, I'm Tom, an aspiring Software, Graphics and Machine Learning Engineer 
 ### Take a look through my past works
 
 #### Me
