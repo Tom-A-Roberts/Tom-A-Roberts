@@ -7,6 +7,48 @@
 - Awards and achievements: Outstanding achievement award L2 (£200 prize for highest mark in year 2).
 - https://www.linkedin.com/in/thomas-roberts-7815371a9/
 
+#### My Tech Stack
+#### **Professional:**
+<center><div>
+    <img src="https://img.icons8.com/color/96/null/python--v1.png" width=96 title="Python"/>
+    <img src="https://img.icons8.com/color/96/null/c-sharp-logo.png" width=96 title="C#"/>
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" width=96 title="PyTorch"/>
+    <img src="https://img.icons8.com/color/96/null/javascript--v1.png" width=96 title="Javascript"/>
+    <img src="https://img.icons8.com/color/96/null/html-5--v1.png" width=96 title="HTML"/>
+    <img src="https://img.icons8.com/color/96/null/css3.png" width=96 title="CSS"/>
+    <img src="https://img.icons8.com/color/96/null/unity.png" width=96 title="Unity"/>
+</div></center>
+
+#### **Intermediate:**
+<center><div>
+    <img src="https://img.icons8.com/color/48/null/tensorflow.png" width=48 title="Tensorflow"/>
+    <img src="https://img.icons8.com/color/48/null/c-programming.png" width=48 title="C"/>
+    <img src="https://img.icons8.com/ios/48/9D3232/webgl.png" width=48 title="WebGL"/>
+    <img src="https://img.icons8.com/color/48/null/cinema-4d.png" width=48 title="Cinema4D"/>
+    <img src="https://img.icons8.com/color/48/null/adobe-after-effects--v1.png" width=48 title="Adobe After Effects"/>
+    <img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png" width=48 title="Adobe Photoshop"/>
+    <img src="https://img.icons8.com/color/48/null/adobe-lightroom--v1.png" width=48 title="Adobe Lightroom"/>
+    <img src="https://img.icons8.com/color/48/null/nodejs.png" width=48 title="Node.JS"/>
+    <img src="https://img.icons8.com/color/48/null/pandas.png" width=48 title="Pandas"/>
+    <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" width=48 title="ThreeJS"/>
+    <img src="https://img.icons8.com/color/48/null/git.png" width=48 title="Git"/>
+</div></center>
+
+#### **Basic:**
+<center><div>
+    <img src="https://img.icons8.com/color/48/null/solidity.png" width=48 title="Solidity"/>
+    <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" width=48 title="C++"/>
+    <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" width=48 title="Java"/>
+    <img src="https://img.icons8.com/color/48/null/react-native.png" width=48 title="React"/>
+    <img src="https://img.icons8.com/color/48/null/angularjs.png" width=48 title="Angular"/>
+    <img src="https://img.icons8.com/color/48/null/audacity.png" width=48 title="Audacity"/>
+    <img src="https://img.icons8.com/color/48/null/blender-3d.png" width=48 title="Blender"/>
+    <img src="https://img.icons8.com/color/48/null/latex.png" width=48 title="LaTeX"/>
+    <img src="https://img.icons8.com/color/48/null/sql.png" width=48 title="SQL"/>
+</div></center>
+
+
+
 ### Past Works Index
 - Largest Projects
   - [Auto-Docking Spaceship PID Control System script](https://github.com/Tom-A-Roberts#auto-docking-spaceship-pid-control-system-script-32358-current-users)
@@ -47,6 +89,7 @@
 ---
 
 * ### Auto-Docking Spaceship PID Control System script (32,358 current users).
+  > ### [C#]
   > <img src="Gifs/DockingSequence.gif" height="150" title="Click to see the video">
   > <img src="Gifs/DockingSequence4.gif" height="150" title="Click to see the video">
   > <img src="Gifs/Autodocking Collision Avoidance.gif" height="150" title="Click to see the video">
@@ -61,6 +104,7 @@
 
 
 * ## 4th Year Project: Using machine learning to identify motion of the camera within films (Achieved a First)
+  > ### [PyTorch, Machine Learning, Python]
   > <img src="Gifs/Spectre.gif" height="125" title=""><img src="Gifs/SpectreForegroundBackground.gif" height="125" title=""><img src="Gifs/SpectreMotion.gif" height="200" title="">
   > <img src="Gifs/OpticalFlow.gif" height="130" title="">
   > <img src="Gifs/DissPipelineOverview.PNG" height="250" title=""></a>
@@ -80,7 +124,7 @@
   >   - Achieved an end-to-end accuracy of 85%, showing the benefits of this new technique.
 
 * ## Pegasus Generation Deep Learning Project (78% Mark)
-  > ### [PyTorch, Machine Learning]
+  > ### [PyTorch, Machine Learning, Python]
   > - The task for the Deep Learning module was staged simply: Create an AI drawn picture of a pegasus (a winged horse), while only using the CIFAR-10 dataset. This dataset contains no pegasus pictures, meaning we had to rely on creative ways to manipulate machine learning programs.
   > - The resulting image of a pegasus I produced was used as examplar feedback to the class.
   > - To produce pegasus images, I applied a current state-of-the-art Generative Adversarial Network (GAN) and manipulated the architecture so that it recieved an extra label as an input when creating the image. This label was associated with how "bird-like" or how "horse-like" the output would be. The label was interpolated, producing images of various horse+bird configurations. Some of these configurations look like pegasus, judge for yourself!:
@@ -301,6 +345,7 @@
   > - This coursework achieved a mark of 85%.
 
 * ## Stance Detection (78% mark)
+  > ### [PyTorch, Language Models, Python]
   > <img src="Gifs/GRURelatedUnrelated.PNG" height="240" title="">
   > <img src="Gifs/RoBERTa.PNG" height="90" title="">
   > 
@@ -316,6 +361,7 @@
   > - This coursework achieved a mark of 78%.
 
 * ## Highly optimizing a particle simulation for a supercomputer in C – 84% mark
+  > ### [C]
   > <img src="Gifs/ParallelComputing.gif" height="400" title="">
   > 
   > - Created a highly optimized particle gravity simulation that was scalable, fast, and executable on *Hamilton*, Durham University's supercomputer.
@@ -324,6 +370,7 @@
   > - Achieved a mark of 84%.
 
 * ## Wrote a Neural Network library from scratch at the age of 15
+  > ### [VB.net]
   > <img src="Gifs/SignWave.gif" height="250" title="">
   > <img src="Gifs/Classification.gif" height="200" title="">
   > <img src="Gifs/Digits.gif" height="200" title="">
@@ -332,3 +379,8 @@
   > - Improved upon in the future to create a system that could drive a toy car around by using an estimated depth map from a webcam.
   > - At this age, I was unaware of the MNIST dataset and data augmentation methods, so I "invented" my own image transformations in order to augment my pwn dataset.
   > - While at school I was captivated by projects, creating at least 20 other projects that, if shown here, would extend the list outside of anyone's attention span.
+
+
+[^icons]
+
+[^icons]: <a target="_blank" href="https://icons8.com">Icons by Icons8</a>
