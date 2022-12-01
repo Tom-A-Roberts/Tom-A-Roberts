@@ -7,7 +7,8 @@
 - Awards and achievements: Outstanding achievement award L2 (£200 prize for highest mark in year 2).
 - https://www.linkedin.com/in/thomas-roberts-7815371a9/
 
-#### My Tech Stack
+### My Tech Stack
+hover over to see names
 #### **Professional:**
 <center><div>
     <img src="https://img.icons8.com/color/96/null/python--v1.png" width=96 title="Python"/>
