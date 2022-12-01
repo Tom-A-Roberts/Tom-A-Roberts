@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm Tom, an aspiring Software and Machine Learning Engineer!
 ### Take a look through my past works
 
+#### Me
 - Achieved 82% overall weighted average at uni. Highest weighted average was 83%.
 - Highest mark in year 2 (Outstanding achievement award L2, £200 prize)
-[label](https://github.com/Tom-A-Roberts#auto-docking-spaceship-pid-control-system-script-32358-current-users)
+
 ### Past Works Index
 - Largest Projects
   - [Auto-Docking Spaceship PID Control System script](https://github.com/Tom-A-Roberts#auto-docking-spaceship-pid-control-system-script-32358-current-users)
