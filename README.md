@@ -54,7 +54,7 @@
   > 
   > - Created a spaceship docking control system written in C# for players in *Space Engineers*, a space simulation game.
   > - At the time of writing, at least 32,358 users have downloaded the script to be used on their ships
-  > - Watch a video of it in action here! https://www.youtube.com/watch?v=Ogm4yzAaqEg
+  > - Watch a video of it in action here! https://www.youtube.com/watch?v=rYhvjWr19FE
   > - The script controls of all the thrusters and gyroscopes in order to perfectly land their ship. As part of this, I wrote a physics solver that can handle docking ships onto cruising ships, accelerating ships, rotating ships, ships in gravity, or all of the above.
   > - A large takeaway from this project was experiencing the *design, build, test, review* AGILE loop with real users: at peak usage of the script, there would be 15+ comments a day giving feedback, bugs and issues.
   > -  I would design a new feature, build a new update with the new feature, test it on a thorough testing world - a set of exhaustive simulation tests, then push the feature and adapt the project according to the responses.
