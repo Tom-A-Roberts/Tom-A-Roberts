@@ -1,4 +1,4 @@
-## Hi there, I'm Tom, a Software, Graphics and Machine Learning Engineer 
+## Hi there, I'm Tom, a Software (Full-stack), Graphics and Machine Learning Engineer 
 ### Take a look through my past works
 
 #### Me
