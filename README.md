@@ -11,11 +11,10 @@
 hover over to see names
 #### **Professional:**
 <center><div>
+    <img src="https://img.icons8.com/color/96/null/typescript--v1.png" width=96 title="Typescript"/>
     <img src="https://img.icons8.com/color/96/null/python--v1.png" width=96 title="Python"/>
     <img src="https://img.icons8.com/color/96/null/c-sharp-logo.png" width=96 title="C#"/>
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" width=96 title="PyTorch"/>
-    <img src="https://img.icons8.com/color/96/null/javascript--v1.png" width=96 title="Javascript"/>
-    <img src="https://img.icons8.com/color/96/null/html-5--v1.png" width=96 title="HTML"/>
     <img src="https://img.icons8.com/color/96/null/css3.png" width=96 title="CSS"/>
     <img src="https://img.icons8.com/color/96/null/unity.png" width=96 title="Unity"/>
 </div></center>
