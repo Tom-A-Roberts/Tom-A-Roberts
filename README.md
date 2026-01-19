@@ -88,6 +88,25 @@ hover over to see names
 
 ---
 
+* ### Mini Soul-Reading-Device-3000
+  > ### [Raspberry Pi, Python]
+  > <img src="https://raw.githubusercontent.com/Tom-A-Roberts/mini-soul-reading-device-3000/refs/heads/main/Assets/front.png" height="300">
+  > <img src="https://raw.githubusercontent.com/Tom-A-Roberts/mini-soul-reading-device-3000/refs/heads/main/Assets/taking_photo.gif" height="150">
+  > <img src="https://raw.githubusercontent.com/Tom-A-Roberts/mini-soul-reading-device-3000/refs/heads/main/Assets/printing.gif" height="150">
+  > <img src="https://raw.githubusercontent.com/Tom-A-Roberts/mini-soul-reading-device-3000/main/Assets/shot2.png" height="150">
+  > <img src="https://raw.githubusercontent.com/Tom-A-Roberts/mini-soul-reading-device-3000/main/Assets/shot1.png" height="150">
+  > <img src="https://raw.githubusercontent.com/Tom-A-Roberts/mini-soul-reading-device-3000/main/Assets/shot4.png" height="150">
+  > <img src="https://raw.githubusercontent.com/Tom-A-Roberts/mini-soul-reading-device-3000/refs/heads/main/Assets/back.png" height="150">
+  > <img src="https://raw.githubusercontent.com/Tom-A-Roberts/mini-soul-reading-device-3000/refs/heads/main/Assets/holding.png" height="150">
+  > <img src="https://raw.githubusercontent.com/Tom-A-Roberts/mini-soul-reading-device-3000/refs/heads/main/Assets/open.png" height="150">
+  > 
+  > <a href="https://github.com/Tom-A-Roberts/mini-soul-reading-device-3000">See more about this project</a>
+  > 
+  > - Mini Soul Reading Device! Point it at someone and it'll show you their spirit animal. Or their plushy version, and more
+  > - I built this to give an analog feel to something that is traditionally digital: image-to-image diffusion models
+  > - Built using a Raspberry Pi Zero with a camera to take photos. The photos are processed in the cloud, modified, then converted to bytes and sent to the printer.
+  > - Hardest part was getting the printer to work, using someone's packet sniffing solution (Reverse-engineered from the Phonemo app) I could send arbitrary photos to the printer via bluetooth from the Raspberry Pi.
+
 * ### Auto-Docking Spaceship PID Control System script (32,358 current users).
   > ### [C#]
   > <img src="Gifs/DockingSequence.gif" height="150" title="Click to see the video">
